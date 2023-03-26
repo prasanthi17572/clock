@@ -1,0 +1,29 @@
+
+.btn{
+    border-radius: 100%;
+    background-color: chartreuse;
+    border: none;
+    color:white;
+    padding:22px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.b1{
+    display: flex;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+.p{
+    margin-right: 50px;
+}
+/* .text{
+    margin-right: 70px;
+} */
+/* .C{
+    border:none;
+    margin:20px 300px 20px 100px;
+    width: fit-content;
+
+} */
